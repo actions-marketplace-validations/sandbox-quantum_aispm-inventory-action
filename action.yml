@@ -1,5 +1,5 @@
 name: SandboxAQ AQtive Guard AI SPM Inventory Scan
-description: Scans the repository contents for AI usage and reports findings back to SandboxAQ AQtive Guard
+description: Scans the repository contents for AI usage and reports findings back to AQtive Guard by SandboxAQ.
 author: SB Technology Inc.
 branding:
   icon: alert-triangle
